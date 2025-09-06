@@ -2,7 +2,7 @@
 
 ## Authors
 - Mateo García
-- Gustavo Salazar-Chachón
+- Gustavo Salazar-Chacón
 
 Python Proof of Concept implementation for JoeCipher Chaos-Driven Algorithm
 This github repository contains a Python implementation of the JoeCipher Chaos-Driven Algorithm, a symmetric key block cipher that utilizes chaotic Lorenz Attractor for encryption and decryption processes.
